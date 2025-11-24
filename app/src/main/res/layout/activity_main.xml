@@ -128,9 +128,9 @@
             <ImageView
                 android:layout_width="24dp"
                 android:layout_height="24dp"
-                android:src="@android:drawable/ic_menu_myplaces"
+                android:src="@drawable/ic_games"
                 android:contentDescription="@string/games"
-                android:tint="#5F6368" />
+                app:tint="#5F6368" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -153,9 +153,9 @@
             <ImageView
                 android:layout_width="24dp"
                 android:layout_height="24dp"
-                android:src="@android:drawable/ic_dialog_dialer"
+                android:src="@drawable/ic_apps"
                 android:contentDescription="@string/apps"
-                android:tint="#1A73E8" />
+                app:tint="#1A73E8" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -179,9 +179,9 @@
             <ImageView
                 android:layout_width="24dp"
                 android:layout_height="24dp"
-                android:src="@android:drawable/ic_menu_search"
+                android:src="@drawable/ic_search"
                 android:contentDescription="@string/search"
-                android:tint="#5F6368" />
+                app:tint="#5F6368" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -204,9 +204,9 @@
             <ImageView
                 android:layout_width="24dp"
                 android:layout_height="24dp"
-                android:src="@android:drawable/ic_menu_agenda"
+                android:src="@drawable/ic_books"
                 android:contentDescription="@string/books"
-                android:tint="#5F6368" />
+                app:tint="#5F6368" />
 
             <TextView
                 android:layout_width="wrap_content"
