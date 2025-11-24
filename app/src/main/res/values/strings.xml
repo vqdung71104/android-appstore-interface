@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Play Store</string>
+    <string name="for_you">For you</string>
+    <string name="top_charts">Top charts</string>
+    <string name="children">Children</string>
+    <string name="categories">Categories</string>
+    <string name="games">Games</string>
+    <string name="apps">Apps</string>
+    <string name="search">Search</string>
+    <string name="books">Books</string>
+    <string name="sponsored">Sponsored • </string>
+    <string name="suggested_for_you">Suggested for you</string>
+    <string name="recommended_for_you">Recommended for you</string>
+    <string name="arrow">→</string>
+    <string name="menu_icon">⋮</string>
+    <string name="rating_format">%1$.1f ★</string>
+</resources>
